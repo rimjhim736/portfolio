@@ -1,4 +1,5 @@
-const roles = [
+
+ const roles = [
   {
     period: "Aug 2026 — Present",
     org: "Renu Sharma Education and Foundation",
@@ -7,11 +8,25 @@ const roles = [
       "Joined a foundation-wide analytics initiative, applying data science workflows to real program outcomes rather than academic datasets.",
   },
   {
+    period: "Aug 2026 — Oct 2026",
+    org: "Horizon TechX",
+    title: "AI & Data Science Intern",
+    detail:
+      "Virtual internship focused on applied AI and data science, building hands-on exposure to new tools and techniques through guided, project-based learning.",
+  },
+  {
     period: "May 2026 — Present",
-    org: "CountryEdu Pvt. Ltd. × Bharat Space Education & Research Centre",
+    org: "CountryEdu Pvt. Ltd.",
+    title: "Data Analyst Intern",
+    detail:
+      "Analyzing product and operations data for an EdTech platform, supporting reporting and data-driven decision-making.",
+  },
+  {
+    period: "Jun 2026 — Present",
+    org: "Bharat Space Education & Research Centre (BSERC)",
     title: "Data Analyst Intern — \"Def Space\" Government Summer Program",
     detail:
-      "Selected for a government-affiliated summer analytics program, analyzing program and operations data for an EdTech-and-space-research partnership.",
+      "Selected for a government-affiliated summer analytics program, analyzing program data for a space-research education initiative.",
   },
   {
     period: "Apr 2025 — Jul 2025",
