@@ -21,16 +21,18 @@ export default function Hero() {
             </div>
           </div>
           <h1 className="font-display text-4xl font-semibold leading-[1.08] tracking-tight text-fg sm:text-5xl lg:text-[3.4rem]">
-            Gunjita Anand turns messy
-            <span className="text-amber"> spreadsheets </span>
-            into decisions people actually act on.
+            Gunjita Anand 
+            <span className="text-amber"> Pairs a strong hook with a 'still learning' admission that feels genuine </span>
+            
           </h1>
           <p className="mt-6 max-w-lg text-[15px] leading-relaxed text-dim">
             Data analyst and B.Tech student specializing in data science, currently building
-            dashboards and predictive models across five internships spanning EdTech, a
+            dashboards and predictive models across six internships spanning EdTech, a
             government space-research program, and machine learning. Fluent in SQL, Python,
             R, Power BI, and Excel — comfortable owning a dataset from raw export to
             executive-ready story.
+            I've always been drawn to problems that have a clear, evidence-based answer rather than just opinion — and data analytics is exactly that.
+            What pulled me in specifically was realizing how much impact a well-built dashboard or a clean dataset can have on a real decision
           </p>
           <div className="mt-8 flex flex-wrap items-center gap-4">
             <a
@@ -79,7 +81,7 @@ export default function Hero() {
               />
               <DashCard
                 label="Active internships"
-                value="05"
+                value="06"
                 sub="analyst + ML tracks"
                 color="#8FA6FF"
                 points={[1, 1, 2, 3, 3, 4, 5]}
