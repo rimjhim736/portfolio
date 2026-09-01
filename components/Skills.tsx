@@ -8,6 +8,7 @@ const proficiency = [
 ];
 
 const certifications = [
+  { name: "Data Science Job Simulation — BCG X", org: "Forage", date: "Sep 2026"},
   { name: "Deloitte Data Analytics Job Simulation", org: "Deloitte", date: "Apr 2026" },
   { name: "Data Science with R & Statistics", org: "Udemy", date: "Jan 2026" },
   { name: "Data Visualization with Power BI", org: "Udemy", date: "Jan 2025" },
